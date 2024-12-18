@@ -5,6 +5,7 @@ Problem Statement: The greeting card industry is facing significant challenges d
 Objective: To create a comprehensive business plan and strategy for "Flip Cards," a greeting card startup, aimed at addressing declining market trends by introducing innovative value propositions and enhancing customer engagement.
 
 Key Focus Areas-
+
 Market Challenges Addressed:
 Declining interest in traditional greeting cards due to digitalization.
 Increased competition from alternative gifting options.
@@ -15,6 +16,7 @@ Eco-Friendly Products: Use of sustainable materials to appeal to environmentally
 Personalized Designs: Handcrafted and customizable cards to cater to individual preferences.
 
 Process and Methodology-
+
 Market Research:
 Analyzed competitor tactics to identify gaps and opportunities in the market.
 Evaluated customer preferences and feedback to align the product offerings with emerging trends.
@@ -29,6 +31,7 @@ Designed a user-friendly website to improve visibility and accessibility for cus
 Prepared a detailed business plan and presented it at a business plan exhibition, highlighting the project’s unique features and competitive advantage.
 
 Key Learnings and Takeaways-
+
 Leadership and Accountability:
 Gained experience in leading a team and ensuring the alignment of objectives.
 Learned to navigate operational challenges and drive collaboration.
