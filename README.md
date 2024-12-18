@@ -1,4 +1,4 @@
-# Flip-Cards-
+# Flip-Cards- https://sites.google.com/view/flip-cards/home 
 Strategic Business Plan Development for "Flip Cards"
 
 1. Problem Statement: The greeting card industry is facing significant challenges due to declining market interest, driven by digital alternatives and changing consumer preferences. Traditional greeting card companies struggle to retain customers, innovate offerings, and remain competitive in an increasingly digital and eco-conscious world.
