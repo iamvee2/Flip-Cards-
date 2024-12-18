@@ -14,8 +14,11 @@ Increased competition from alternative gifting options.
 Reduced customer retention and engagement.
 
 Proposed Solutions and Value Propositions:
+
 Subscription-Based Services: Regular delivery of personalized greeting cards tailored to specific occasions.
+
 Eco-Friendly Products: Use of sustainable materials to appeal to environmentally conscious customers.
+
 Personalized Designs: Handcrafted and customizable cards to cater to individual preferences.
 
 
